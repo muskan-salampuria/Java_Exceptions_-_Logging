@@ -2,7 +2,6 @@ package project.Interest_Calculation;
 
 /**
  * Hello world!
- *
  */
 public class App 
 {
