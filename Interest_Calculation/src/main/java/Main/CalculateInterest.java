@@ -30,5 +30,4 @@ public class CalculateInterest {
 		else
 			System.out.println("Invalid Choice");
 	}
-
 }
