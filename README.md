@@ -1,4 +1,4 @@
-***This repository has two projects :--***  
+**This repository has two projects :--**   
 HERE LOGGER IS USED TO PRINT THE STATEMENTS
 
 **1. HOUSE CONSTRUCTION COST**  
