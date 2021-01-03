@@ -13,4 +13,5 @@ Construction cost per square feet is
 ### 2. INTEREST CALCULATION 
     Program to calculate simple interest, and compound interest.
     
- **In this we applied the concept of Exceptions and Logging.**
+ **In this the concept of Exceptions and Logging is applied.**
+ 
